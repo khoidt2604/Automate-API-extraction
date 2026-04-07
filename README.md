@@ -139,7 +139,7 @@ The project creates:
 
 ### Percentage Change Comparison Across Cryptocurrencies
 
-![Crypto Percentage Change Comparison](Screenshot%202026-04-08%20at%2012.46.51%E2%80%AFam.png)
+![Crypto Percentage Change Comparison](Crypto_Percentage_Change_Comparison.png)
 
 This visualization compares average percentage changes across multiple time windows for the top 15 cryptocurrencies. It shows how performance varies across short-term and long-term periods.
 
